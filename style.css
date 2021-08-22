@@ -21,8 +21,10 @@ h1{
 p{
     text-align: justify;
 }
-section{
+.top-banner{
     background-image: url("images/top-banner.png");
-    height: 550px;
     background-repeat: no-repeat;
+}
+section{
+    height: 550px;
 }
